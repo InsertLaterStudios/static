@@ -1,0 +1,22 @@
+.result{
+	display:flex;
+	gap:10px;
+}
+ul{
+	list-style-type:none;
+}
+p{
+	margin:0px;
+}
+.hr-head{
+	height: 2px;
+	background-color:#000;
+	border:none;
+}
+
+.inputLen-pass{
+	width:50px;
+}
+.inputLen-pin{
+	width:30px;
+}
